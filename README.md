@@ -1,2 +1,2 @@
-# popcorn-sales-form
-page for popcorn sales form
+# Popcorn-Sales-Form
+Use HTML CSS Javascript to make a form
